@@ -48,3 +48,5 @@ Choose Windows Photo Viewer and exit the Settings menu, and you're done
 #### ▶  Version 1511 (OS build 10586)
 
 #### ▶  Version 1507 (RTM) (OS build 10240)
+
+#### ▶  Version 20H2
