@@ -35,7 +35,7 @@ Choose Windows Photo Viewer and exit the Settings menu, and you're done
 
  - [Post by Edwin over at TenForums](http://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818)
 
-### Confirmed Working Windows 10 Version
+### Confirmed Working Windows 10 Versions
 
 #### ▶  Version 1803 (OS build 17134)
 
@@ -50,3 +50,10 @@ Choose Windows Photo Viewer and exit the Settings menu, and you're done
 #### ▶  Version 1507 (RTM) (OS build 10240)
 
 #### ▶  Version 20H2
+
+#### ▶  Version 21H2
+
+
+### Confirmed Working Windows 11 Versions
+
+#### ▶  Version 21H2
