@@ -16,20 +16,22 @@ simply open up  **Settings**  and go to  **System > Default apps**. Under "Photo
 Choose Windows Photo Viewer and exit the Settings menu, and you're done
 
  ### If installed Windows 10 from scratch
+
  
- 1. Clone or Download this repository 
- 
+ 1. Clone or Download this repository
+
 ![enter image description here](https://i.imgur.com/eYTkMXd.png)
- 2. Double Click **"enable_photo_viewer.reg"** file
- 3. If there are some UAC prompt , just click yes. (Don't worry its's completely safe)
- 4. You're done. 
- 5. Right click on any jpg/png/gif file, Click "Open With"  > Click "Choose Another App" > Scroll through the list of apps / software > Click "More Apps"
- ![
-](https://i.imgur.com/LyEmImJ.jpg)
+ 
+ 3. Double Click **"enable_photo_viewer.reg"** file
+ 4. If there are some UAC prompt , just click yes. (Don't worry its's completely safe)
+ 5. You're done. 
+ 6. Right click on any jpg/png/gif file, Click "Open With"  > Click "Choose Another App" > Scroll through the list of apps / software > Click "More Apps"
+ 
+ ![](https://i.imgur.com/LyEmImJ.jpg)
 
 
- 6. Choose "Windows Photo Viewer"
- 7. DONE ✌😎
+ 7. Choose "Windows Photo Viewer"
+ 8. DONE ✌😎
 
 ### Credits :
 
